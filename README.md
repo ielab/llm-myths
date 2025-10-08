@@ -63,23 +63,23 @@ The table below provides the 50 myths taken from Lilienfeld, 2009. Each represen
 
 | Label | Model Name | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R |
 |-------|---------------------------------------------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| A     | Human - Junior Psychology Students (63%)   | * |   |   |   |   |   |   |   |   |   |   |   |   | * |   |   |   |
-| B     | Human - Senior Psychology Students (51%)   |   |   |   | * | * | * |   |   |   |   |   |   |   | * |   |   |   |
-| C     | Llama-3.3-70B (22%)                        |   |   |   | * | * |   |   |   |   |   |   |   |   |   |   |   |   |
-| D     | Llama-4-17B (8%)                           |   | * |   | * | * |   |   |   |   | * |   |   |   |   |   |   |   |
-| E     | GPT-4o (24%)                               |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| G     | RAG + Llama-3.3-70B (20%)                  |   | * |   | * | * |   |   |   |   |   |   |   |   | * |   |   |   |
-| H     | RAG + Llama-4-17B (0%)                     |   |   |   | * | * |   |   |   |   |   |   |   |   |   | * |   |   |
-| I     | RAG + GPT-4o (16%)                         |   | * | * | * | * | * |   |   | * |   | * |   | * |   | * | * |   |
-| J     | RAG + Gemini-2.5-Flash (10%)               |   | * | * | * | * | * |   |   |   | * |   |   | * |   | * |   |   |
-| K     | Sway Sceptic + Llama-3.3-70B (0%)          |   |   |   |   | * |   |   |   |   |   |   |   |   |   |   |   |   |
-| L     | Sway Sceptic + Llama-4-17B (0%)            |   |   |   |   | * |   |   |   |   |   |   |   |   |   | * |   |   |
-| M     | Sway Sceptic + GPT-4o (8%)                 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| N     | Sway Sceptic + Gemini-2.5-Flash (0%)       |   |   |   |   |   |   |   |   |   |   |   |   |   |   | * |   |   |
-| O     | Sway Believer + Llama-3.3-70B (65%)       |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| P     | Sway Believer + Llama-4-17B (4%)          |   | * | * | * | * |   |   |   |   | * |   |   |   |   |   |   |   |
-| Q     | Sway Believer + GPT-4o (41%)              |   | * |   | * | * | * | * |   | * |   |   |   |   | * | * |   | * |
-| R     | Sway Believer + Gemini-2.5-Flash (51%)    |   | * |   | * |   | * |   |   |   |   |   |   |   | * |   |   |   |
+| **A**     | Human - Junior Psychology Students (63%)   | * |   |   |   |   |   |   |   |   |   |   |   |   | * |   |   |   |
+| **B**     | Human - Senior Psychology Students (51%)   |   |   |   | * | * | * |   |   |   |   |   |   |   | * |   |   |   |
+| **C**     | Llama-3.3-70B (22%)                        |   |   |   | * | * |   |   |   |   |   |   |   |   |   |   |   |   |
+| **D**     | Llama-4-17B (8%)                           |   | * |   | * | * |   |   |   |   | * |   |   |   |   |   |   |   |
+| **E**     | GPT-4o (24%)                               |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| **G**     | RAG + Llama-3.3-70B (20%)                  |   | * |   | * | * |   |   |   |   |   |   |   |   | * |   |   |   |
+| **H**     | RAG + Llama-4-17B (0%)                     |   |   |   | * | * |   |   |   |   |   |   |   |   |   | * |   |   |
+| **I**     | RAG + GPT-4o (16%)                         |   | * | * | * | * | * |   |   | * |   | * |   | * |   | * | * |   |
+| **J**     | RAG + Gemini-2.5-Flash (10%)               |   | * | * | * | * | * |   |   |   | * |   |   | * |   | * |   |   |
+| **K**     | Sway Sceptic + Llama-3.3-70B (0%)          |   |   |   |   | * |   |   |   |   |   |   |   |   |   |   |   |   |
+| **L**     | Sway Sceptic + Llama-4-17B (0%)            |   |   |   |   | * |   |   |   |   |   |   |   |   |   | * |   |   |
+| **M**     | Sway Sceptic + GPT-4o (8%)                 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| **N**     | Sway Sceptic + Gemini-2.5-Flash (0%)       |   |   |   |   |   |   |   |   |   |   |   |   |   |   | * |   |   |
+| **O**     | Sway Believer + Llama-3.3-70B (65%)       |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| **P**     | Sway Believer + Llama-4-17B (4%)          |   | * | * | * | * |   |   |   |   | * |   |   |   |   |   |   |   |
+| **Q**     | Sway Believer + GPT-4o (41%)              |   | * |   | * | * | * | * |   | * |   |   |   |   | * | * |   | * |
+| **R**     | Sway Believer + Gemini-2.5-Flash (51%)    |   | * |   | * |   | * |   |   |   |   |   |   |   | * |   |   |   |
 
 
 
